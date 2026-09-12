@@ -1,0 +1,45 @@
+Claims Reporting and Processing Procedure
+
+I. Initiate Your Claim
+
+Contact: Report your incident immediately via our online portal or by calling our 24/7 claims hotline: (800) 555-CLAIM.
+
+Required Information: Be prepared to provide the following:
+
+Policy Holder Name and Policy Number (e.g., AUTO-987654)
+
+Date, Time, and Location of the Incident
+
+Detailed Description of what happened (The Who, What, Where, When)
+
+Contact information for any third parties or witnesses.
+
+II. Documentation Submission
+
+After initiating your claim (Status: SUBMITTED), you will receive a Claim ID (e.g., CLM-2025-1010). Please upload all supporting documentation within 7 business days.
+
+Essential Documents:
+
+Photos of the damage or incident scene.
+
+Police or incident reports, if applicable.
+
+Itemized repair estimates or replacement quotes.
+
+Medical records/bills (for injury claims).
+
+III. Review and Assessment
+
+Status: PROCESSING
+A dedicated Claims Adjuster will be assigned to your case. They will review all documentation, verify coverage against your policy terms, and may schedule a physical inspection if necessary.
+
+Request for Additional Information (Status: ADDL_INFO_REQ):
+If your adjuster requires more details, you will be notified via email and your online portal. Prompt responses are critical to avoid delays.
+
+IV. Final Decision and Settlement
+
+The adjuster will issue a final determination:
+
+APPROVED: Your claim meets the coverage criteria. A settlement offer will be issued, or payment will be made directly to the service provider. (Status: APPROVED/PAID)
+
+DENIED: The incident or loss is not covered under the terms and exclusions of your policy (e.g., policy lapsed, event is an exclusion like 'flood'). A detailed letter explaining the decision and appeal process will be provided. (Status: DENIED)

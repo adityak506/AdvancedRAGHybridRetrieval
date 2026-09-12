@@ -1,0 +1,29 @@
+llm:
+  provider: "openai"            # options: openai | gemini
+  model_openai: "gpt-4o-mini"
+  model_gemini: "gemini-2.5-flash"
+  temperature: 0.3
+  max_tokens: 1000
+
+embedding:
+  openai_model: "text-embedding-3-small"      # dim = 1536
+  gemini_model: "models/text-embedding-004"   # dim = 768
+
+vectordb:
+  faiss_openai: "./data/embeddings/faiss_openai"
+  faiss_gemini: "./data/embeddings/faiss_gemini"
+
+retrieval:
+  top_k: 5
+
+
+hybrid:
+  k_semantic: 5        # how many from FAISS
+  k_sparse: 5          # how many from BM25
+  weights: [0.6, 0.4]  # [semantic_weight, sparse_weight]
+  normalize: true      # score normalization before fusion
+
+bm25:
+  k1: 1.5
+  b: 0.75
+  stopwords: []        # optional: ["the", "is", "a"] (keep empty to begin)
