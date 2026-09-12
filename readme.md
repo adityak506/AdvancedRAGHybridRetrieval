@@ -11,6 +11,12 @@ The project supports **both OpenAI & Gemini** embeddings and automatically maint
 
 ---
 
+## 🗺️ System Architecture & Workflow
+
+![Hybrid RAG Workflow](assets/hybrid_rag_workflow.png)
+
+---
+
 ## 🚀 Project Features
 
 ### ✅ 1. Dual Embedding Provider Support
